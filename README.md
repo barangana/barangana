@@ -27,3 +27,5 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+linkedin.com/in/barangana/
