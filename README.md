@@ -1,4 +1,4 @@
-## Hey, I'm Adriel! 👋
+## Hey, I'm Adriel!
 
 I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, but always open to learning more. I'm passionate about computer hardware, software and technology in general. 
 
