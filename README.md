@@ -8,14 +8,14 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 
 ⚡ **Technology(s) that I am learning (will learn) :**
 
-![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=flat-square&logo=next.js&logoColor=white")
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 💻 **Technologies:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=flat-square&logo=next.js&logoColor=white")
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
