@@ -4,7 +4,7 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 
 📂 **Project(s) that I am currently working on:**
 
-- ** CipherPact Landing and FrontEnd **: NextJS / TailwindCSS / ReactJS
+- **CipherPact Landing and Application:** NextJS / TailwindCSS / ReactJS
 
 ⚡ **Technology(s) that I am learning (will learn) :**
 
