@@ -4,7 +4,7 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 
 📂 **Project(s) that I am currently working on:**
 
-- **Movie Application (No name yet)**: Application with functionalities to login, register, leave comments and search for movies. Built with MongoDB, Express, Node and React.
+- ** CipherPact Landing and FrontEnd **: NextJS / TailwindCSS / ReactJS
 
 ⚡ **Technology(s) that I am learning (will learn) :**
 
