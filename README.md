@@ -10,6 +10,7 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 ⚡ **Technology(s) that I am learning (will learn) :**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-squaree&logo=Python&logoColor=ffdd54)
 
 💻 **Technologies:**
 
