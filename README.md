@@ -7,11 +7,6 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 - **CipherPact Landing and Application:** NextJS / ReactJS / BlockFrost / ErgoScript / styled-components
 - **Portfolio Website:** Next / TypeScript 
 
-⚡ **Technology(s) that I am learning (will learn) :**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-squaree&logo=Python&logoColor=ffdd54)
-
 💻 **Technologies:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
