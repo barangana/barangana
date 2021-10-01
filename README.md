@@ -5,7 +5,7 @@ I am a Full-Stack Developer from Montreal, Canada. Mainly dabble in JavaScript, 
 📂 **Project(s) that I am currently working on:**
 
 - **CipherPact Landing and Application:** NextJS / ReactJS / BlockFrost / ErgoScript / styled-components
-- **Portfolio Website:** Next / TypeScript 
+- **Portfolio Website:** Next / TypeScript / ChakraUI
 
 💻 **Technologies:**
 
